@@ -12,9 +12,11 @@
 @pedestrian-fill: #ededed;
 @road-fill: #ddd;
 @path-fill: black;
-@footway-fill: salmon;
+/*@footway-fill: salmon; */
+@footway-fill: red; 
 @ldpnwn-fill: purple;
-@bridleway-fill: #0080FF;
+/*@bridleway-fill: #0080FF; */
+bridleway-fill: red;
 @track-fill: #996600;
 @aeroway-fill: #bbc;
 @runway-fill: @aeroway-fill;
