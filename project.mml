@@ -125,6 +125,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "landcover",
@@ -148,6 +149,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "landcover-line",
@@ -171,6 +173,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "water-lines-casing",
@@ -194,6 +197,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "water-lines-low-zoom",
@@ -217,6 +221,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "water-areas",
@@ -240,6 +245,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "water-areas-overlay",
@@ -263,6 +269,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "water-lines",
@@ -286,6 +293,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "dam",
@@ -309,6 +317,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "marinas-area",
@@ -332,6 +341,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "piers-area",
@@ -355,6 +365,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis",
         "id": "roads-fill",
         "project": "openstreetmap-carto-ajt",
@@ -381,6 +392,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "locks",
@@ -404,6 +416,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "tunnels",
@@ -430,6 +443,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "citywalls",
@@ -453,6 +467,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "castlewalls",
@@ -476,6 +491,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "castlewalls-poly",
@@ -499,6 +515,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "landuse-overlay",
@@ -522,6 +539,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "line-barriers",
@@ -545,6 +563,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "cliffs",
@@ -568,6 +587,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "area-barriers",
@@ -591,6 +611,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "tree-row",
@@ -614,6 +635,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "ferry-routes",
@@ -637,6 +659,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "turning-circle-casing",
@@ -660,6 +683,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "highway-area-casing",
@@ -683,6 +707,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "roads-casing",
@@ -705,6 +730,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "highway-area-fill",
@@ -728,6 +754,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "buildings-lz",
@@ -751,6 +778,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "buildings",
@@ -774,6 +802,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "roads-fill",
@@ -797,6 +826,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "turning-circle-fill",
@@ -820,6 +850,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "aerialways",
@@ -843,6 +874,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "roads-low-zoom",
@@ -866,6 +898,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "waterway-bridges",
@@ -889,6 +922,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "bridges",
@@ -915,6 +949,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "levees",
@@ -941,6 +976,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "trams",
@@ -964,6 +1000,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "guideways",
@@ -987,6 +1024,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "admin-01234",
@@ -1010,6 +1048,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "admin-5678",
@@ -1033,6 +1072,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "admin-other",
@@ -1056,6 +1096,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "power-minorline",
@@ -1079,6 +1120,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "power-line",
@@ -1124,6 +1166,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "placenames-large",
@@ -1147,6 +1190,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "placenames-capital",
@@ -1170,6 +1214,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "placenames-medium",
@@ -1193,6 +1238,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "placenames-small",
@@ -1216,6 +1262,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "stations",
@@ -1239,6 +1286,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "stations-poly",
@@ -1262,6 +1310,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "glaciers-text",
@@ -1285,6 +1334,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "amenity-symbols",
@@ -1308,6 +1358,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "amenity-symbols-poly",
@@ -1331,6 +1382,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "amenity-points",
@@ -1354,6 +1406,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "amenity-points-poly",
@@ -1377,6 +1430,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "power-towers",
@@ -1400,6 +1454,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "power-poles",
@@ -1423,6 +1478,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "roads-text-ref-low-zoom",
@@ -1446,6 +1502,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "highway-junctions",
@@ -1469,6 +1526,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "roads-text-ref",
@@ -1492,6 +1550,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "roads-area-text-name",
@@ -1515,6 +1574,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "roads-text-name",
@@ -1538,6 +1598,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "paths-text-name",
@@ -1561,6 +1622,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "text",
@@ -1584,6 +1646,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "text-poly",
@@ -1607,6 +1670,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "building-text",
@@ -1630,6 +1694,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "interpolation",
@@ -1653,6 +1718,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "housenumbers",
@@ -1676,6 +1742,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "housenames",
@@ -1699,6 +1766,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "water-lines-text",
@@ -1722,6 +1790,7 @@
         "geometry_field": "way",
         "extent_cache": "custom",
         "extent": "-20037508,-19929239,20037508,19929239",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "admin-text",
@@ -1746,6 +1815,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "nature-reserve-boundaries",
@@ -1769,6 +1839,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
+        "user" : "gis",
         "dbname": "gis"
       },
       "id": "theme-park",
