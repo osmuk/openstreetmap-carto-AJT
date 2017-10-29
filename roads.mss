@@ -16,7 +16,7 @@
 @footway-fill: red; 
 @ldpnwn-fill: purple;
 /*@bridleway-fill: #0080FF; */
-bridleway-fill: red;
+@bridleway-fill: red;
 @track-fill: #996600;
 @aeroway-fill: #bbc;
 @runway-fill: @aeroway-fill;
