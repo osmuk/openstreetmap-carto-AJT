@@ -10,7 +10,7 @@
     text-placement: interior;
   }
 
-  [aeroway = 'large_aerodrome'][zoom >= 10][zoom < 13]::aeroway {
+  [aeroway = 'large_aerodrome'][zoom >= 10]::aeroway {
     [zoom < 11] {
       point-file: url('symbols/aerodrome.p.16.png');
       text-dy: -12;
@@ -46,13 +46,33 @@
     point-placement: interior;
   }
 
+  [natural = 'bigprompeak'][zoom >= 10]::natural {
+    point-file: url('symbols/peak.png');
+    point-placement: interior;
+  }
+
+  [natural = 'bigpeak'][zoom >= 10]::natural {
+    point-file: url('symbols/peak.png');
+    point-placement: interior;
+  }
+
   [natural = 'peak'][zoom >= 11]::natural {
     point-file: url('symbols/peak.png');
     point-placement: interior;
   }
 
+  [natural = 'saddle'][zoom >= 11]::natural {
+    point-file: url('symbols/saddle.png');
+    point-placement: interior;
+  }
+
   [natural = 'volcano'][zoom >= 11]::natural {
     point-file: url('symbols/volcano.png');
+    point-placement: interior;
+  }
+
+  [man_made = 'boundary_stone'][zoom >= 15]::man_made {
+    point-file: url('symbols/boundary_stone.png');
     point-placement: interior;
   }
 
@@ -78,6 +98,11 @@
 
   [natural = 'cave_entrance'][zoom >= 15]::natural {
     point-file: url('symbols/poi_cave.p.16.png');
+    point-placement: interior;
+  }
+
+  [natural = 'climbing'][zoom >= 17]::natural {
+    point-file: url('symbols/climbing.17.png');
     point-placement: interior;
   }
 
@@ -114,8 +139,28 @@
     point-placement: interior;
   }
 
-  [man_made = 'mast'][zoom >= 17]::man_made {
-    point-file: url('symbols/communications.p.20.png');
+  [man_made = 'golfballwasher'][zoom >= 18]::man_made {
+    point-file: url('symbols/golfballwasher.png');
+    point-placement: interior;
+  }
+
+  [man_made = 'mounting_block'][zoom >= 17]::railway {
+    point-file: url('symbols/mountingblock.png');
+    point-placement: interior;
+  }
+
+  [man_made = 'footwear_decontamination'][zoom >= 17]::railway {
+    point-file: url('symbols/decontamination.png');
+    point-placement: interior;
+  }
+
+  [man_made = 'monitoringwater'][zoom >= 17]::man_made {
+    point-file: url('symbols/monitoringwater.png');
+    point-placement: interior;
+  }
+
+  [man_made = 'mineshaft'][zoom >= 17]::man_made {
+    point-file: url('symbols/poi_mine.p.16.png');
     point-placement: interior;
   }
 
@@ -127,7 +172,15 @@
   [highway = 'gate']::highway,
   [barrier = 'gate']::barrier {
     [zoom >= 15] {
-      point-file: url('symbols/gate2.png');
+      point-file: url('symbols/gate.png');
+      point-placement: interior;
+    }
+    [zoom >= 17] {
+      point-file: url('symbols/gatex2.png');
+      point-placement: interior;
+    }
+    [zoom >= 21] {
+      point-file: url('symbols/gatex3.png');
       point-placement: interior;
     }
   }
@@ -137,11 +190,27 @@
       point-file: url('symbols/kissinggate.png');
       point-placement: interior;
     }
+    [zoom >= 17] {
+      point-file: url('symbols/kissinggatex2.png');
+      point-placement: interior;
+    }
+    [zoom >= 21] {
+      point-file: url('symbols/kissinggatex3.png');
+      point-placement: interior;
+    }
   }
 
   [barrier = 'stile']::barrier {
     [zoom >= 15] {
       point-file: url('symbols/stile.png');
+      point-placement: interior;
+    }
+    [zoom >= 17] {
+      point-file: url('symbols/stilex2.png');
+      point-placement: interior;
+    }
+    [zoom >= 21] {
+      point-file: url('symbols/stilex3.png');
       point-placement: interior;
     }
   }
@@ -151,11 +220,27 @@
       point-file: url('symbols/horsestile.png');
       point-placement: interior;
     }
+    [zoom >= 17] {
+      point-file: url('symbols/horsestilex2.png');
+      point-placement: interior;
+    }
+    [zoom >= 21] {
+      point-file: url('symbols/horsestilex3.png');
+      point-placement: interior;
+    }
   }
 
   [barrier = 'cycle_barrier']::barrier {
     [zoom >= 15] {
       point-file: url('symbols/cyclebarrier.png');
+      point-placement: interior;
+    }
+    [zoom >= 17] {
+      point-file: url('symbols/cyclebarrierx2.png');
+      point-placement: interior;
+    }
+    [zoom >= 21] {
+      point-file: url('symbols/cyclebarrierx3.png');
       point-placement: interior;
     }
   }
@@ -165,6 +250,21 @@
       point-file: url('symbols/cattlegrid.png');
       point-placement: interior;
     }
+    [zoom >= 17] {
+      point-file: url('symbols/cattlegridx2.png');
+      point-placement: interior;
+    }
+    [zoom >= 21] {
+      point-file: url('symbols/cattlegridx3.png');
+      point-placement: interior;
+    }
+  }
+
+  [barrier = 'stepping_stones']::barrier {
+    [zoom >= 15] {
+      point-file: url('symbols/stepping_stones.png');
+      point-placement: interior;
+    }
   }
 
   [barrier = 'lift_gate'][zoom >= 16]::barrier {
@@ -172,10 +272,22 @@
     point-placement: interior;
   }
 
+  [barrier = 'toll_booth'][zoom >= 16]::barrier {
+    point-file: url('symbols/tollbooth.png');
+    point-placement: interior;
+  }
+
   [barrier = 'bollard'],
   [barrier = 'block'] {
     [zoom >= 16] {
       point-file: url('symbols/bollard.png');
+      point-placement: interior;
+    }
+  }
+
+  [barrier = 'door'] {
+    [zoom >= 19] {
+      point-file: url('symbols/door.png');
       point-placement: interior;
     }
   }
